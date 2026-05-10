@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=502525&height=180&text=LEE%20JINHEE&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=502525&height=180&text=JINHEE%20LEE&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 계속해서 생각하는 개발자인 이진희입니다.</li>백엔드와 AI에 관심 있습니다😊 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 계속해서 생각하는 개발자 이진희입니다.<br></li>백엔드와 AI에 관심 있습니다😊 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
